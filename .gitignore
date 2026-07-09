@@ -1,0 +1,9 @@
+# C# / .NET / Visual Studio / VS Code build files
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
